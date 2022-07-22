@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JARobledo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning devs
-- 💞️ I’m looking to collaborate on projects
+- 🌱 I’m currently learning developming apps
+- 💞️ I’m looking to collaborate on projects of others devs
